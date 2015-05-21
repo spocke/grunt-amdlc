@@ -1,0 +1,8 @@
+.*
+!.jshintrc
+!.eslintrc
+!.jscsrc
+!.git*
+!.editorconfig
+*.log
+node_modules
